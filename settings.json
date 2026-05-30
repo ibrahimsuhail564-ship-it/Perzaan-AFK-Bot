@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "ONEBLOCK-d1cY.aternos.me:58578",
+    "port": 58578,
     "version": "1.21.1"
   },
   "position": {
