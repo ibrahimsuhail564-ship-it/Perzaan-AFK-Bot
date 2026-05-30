@@ -8,7 +8,7 @@
   "server": {
     "ip": "ONEBLOCK-d1cY.aternos.me:58578",
     "port": 58578,
-    "version": "1.21.1"
+    "version": "1.26.1"
   },
   "position": {
     "enabled": true,
